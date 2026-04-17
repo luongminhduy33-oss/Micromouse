@@ -5,4 +5,3 @@
    1. Must autonomously detects walls
    2. Detects whenever it has reached the goal
    3. Maps out the maze (Optional)
-## I.2/ Dive deeper into micromouse specifications
